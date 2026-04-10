@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .pics one-word domains from
 
 **Public extract:** 8,346 rows · **Live catalog:** 5,621,926 domains
 
-**Last updated:** 2026-04-09  
+**Last updated:** 2026-04-10  
 **Canonical page:** `https://unique.domains/domains/tld/pics`  
 **Best for:** founders, investors, studios
 
@@ -24,24 +24,18 @@ Daily-updated public extract of available and resale .pics one-word domains from
 
 <p align="center">
   <a href="https://unique.domains/domains/tld/pics?utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
-  <a href="https://unique.domains/domains/tld/pics?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_create_radar"><b>🔔 Create Radar</b></a> ·
-  <a href="https://unique.domains/domains/tld/pics?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_start_project"><b>🚀 Start a Project</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./pics.csv">CSV</a> / <a href="./pics.json">JSON</a>
-</p>
-
-<p align="center">
-  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_methodology">Methodology</a> ·
-  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_api_docs">API docs</a>
+  · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
 ---
 
-> This repo is the sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and richer price, demand, and risk context.
+➡️ **Investors:** [Create a Radar from this .PICS search](https://unique.domains/domains/tld/pics?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this .PICS search](https://unique.domains/domains/tld/pics?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_start_project)  
+➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_api_docs)
 
-**Choose your next step**
-- **Investors:** [Create a Radar from this exact .PICS search](https://unique.domains/domains/tld/pics?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_create_radar)
-- **Founders:** [Start a Project from this exact .PICS search](https://unique.domains/domains/tld/pics?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_start_project)
-- **Researchers / builders:** [Download CSV](./pics.csv) or [Download JSON](./pics.json)
+---
 
 ## 📦 What this repository contains
 
@@ -56,18 +50,6 @@ This repository is the public extract for Unique Domains' .PICS one-word domain 
 - `CHANGELOG.md` — latest snapshot metadata
 - `CITATION.cff` — machine-readable dataset citation metadata
 - `LICENSE` — terms for the public extract
-
-## Why leave GitHub?
-
-| GitHub extract          | Live product                                     |
-| ----------------------- | ------------------------------------------------ |
-| 8,346-row public sample | 5,621,926 live domains                           |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
-
-If this sample already feels useful, the live product is where the exact search becomes a workflow.
 
 ## 🧭 Quick start
 
@@ -96,10 +78,10 @@ print(df.head())
 | big.pics        | premium   | $812.50   | $812.50       | 88             | 47     | 3      | name.com        |
 | gather.pics     | available | $1.99     | $45.99        | 96             | 39     | 6      | name.com        |
 | lens.pics       | resell    | —         | —             | 62             | 71     | 4      | Namecheap       |
-| water.pics      | premium   | $845      | $845          | 108            | 45     | 5      | namecheap       |
+| health.pics     | premium   | $2,600    | $2,600        | 92             | 45     | 6      | namecheap       |
 | forge.pics      | available | $1.99     | $45.99        | 62             | 39     | 5      | name.com        |
 | easy.pics       | resell    | —         | —             | 128            | 68     | 4      | Spaceship, Inc. |
-| health.pics     | premium   | $2,600    | $2,600        | 92             | 45     | 6      | namecheap       |
+| star.pics       | premium   | $812.50   | $812.50       | 86             | 45     | 4      | name.com        |
 | order.pics      | available | $1.99     | $45.99        | 78             | 38     | 5      | name.com        |
 | flow.pics       | resell    | —         | —             | 96             | 67     | 4      | Spaceship, Inc. |
 
@@ -107,7 +89,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 ## 🚀 Next move
 
-You are seeing the public sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 8,346-row public sample | 5,621,926 live domains                           |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
+
+If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
 [Create Radar](https://unique.domains/domains/tld/pics?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/pics?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_pics_oneword_domains&utm_content=related_pricing)
 
@@ -134,7 +126,7 @@ This repository follows the exact public search represented by the canonical pag
 - Counts, prices, and statuses can change over time.
 - Scores are decision-support signals, not guarantees of resale value.
 - Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- The live product contains deeper filters, monitoring, and decision workflows than this public extract.
+- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -151,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PICS One-Word Domains*. Version 2026-04-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PICS One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -166,4 +158,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `hello@unique.domains`
+Questions, corrections, or partnership requests: `gaetan@unique.domains`
