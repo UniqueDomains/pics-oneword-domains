@@ -69,7 +69,7 @@ print(df.head())
 | nationwide.pics | premium   | $2,500    | $2,500        | 76             | 66     | 10     | name.com        |
 | athletics.pics  | available | $40.98    | —             | 69             | 52     | 9      | namecheap       |
 | medical.pics    | resell    | $1.99     | $45.99        | 100            | 32     | 7      | Dynadot LLC     |
-| design.pics     | premium   | $812.50   | $812.50       | 108            | 50     | 6      | name.com        |
+| design.pics     | premium   | $812.50   | $812.50       | 108            | 49     | 6      | name.com        |
 | strategy.pics   | available | $40.98    | —             | 74             | 43     | 8      | namecheap       |
 | authentic.pics  | resell    | —         | —             | 76             | 83     | 9      | Spaceship, Inc. |
 | big.pics        | premium   | $812.50   | $812.50       | 88             | 47     | 3      | name.com        |
