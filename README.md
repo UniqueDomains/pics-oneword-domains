@@ -1,10 +1,10 @@
-# Available .PICS One-Word Domains (10,731)
+# Available .PICS One-Word Domains (11,191)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C731%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C191%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pics one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,731 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,191 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,731 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,191 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/pics`  
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | keepthechange.pics | available | $1.99     | —             | 46             | 59     | 15     | name.com        |
 | london.pics        | resell    | —         | —             | 76             | 43     | 6      | Spaceship, Inc. |
-| CocaCola.pics      | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap       |
+| insight.pics       | premium   | $2,500    | —             | 76             | 69     | 8      | name.com        |
 | whynot.pics        | available | $1.99     | —             | 74             | 39     | 7      | name.com        |
 | dave.pics          | resell    | —         | —             | 76             | 38     | 4      | Dynadot LLC     |
-| insight.pics       | premium   | $2,500    | —             | 76             | 69     | 8      | name.com        |
+| donuts.pics        | premium   | $2,500    | —             | 54             | 62     | 6      | name.com        |
 | etc.pics           | available | $1.99     | —             | 58             | 34     | 3      | name.com        |
 | healthcare.pics    | resell    | —         | —             | 80             | 31     | 10     | Spaceship, Inc. |
-| donuts.pics        | premium   | $2,500    | —             | 54             | 62     | 6      | name.com        |
+| regions.pics       | premium   | $2,500    | —             | 64             | 59     | 7      | name.com        |
 | payments.pics      | available | $1.99     | —             | 58             | 33     | 8      | name.com        |
 | inspiration.pics   | resell    | —         | —             | 88             | 30     | 11     | Dynadot LLC     |
-| regions.pics       | premium   | $2,500    | —             | 64             | 59     | 7      | name.com        |
-| partners.pics      | available | $1.99     | —             | 61             | 32     | 8      | name.com        |
-| rewards.pics       | resell    | —         | —             | 62             | 30     | 7      | Dynadot LLC     |
 | stories.pics       | premium   | $2,500    | —             | 58             | 36     | 7      | name.com        |
-| William.pics       | available | $40.98    | —             | 74             | 31     | 7      | namecheap       |
-| heroes.pics        | resell    | —         | —             | 68             | 29     | 6      | Dynadot LLC     |
-| videos.pics        | premium   | $2,500    | —             | 52             | 30     | 6      | name.com        |
+| partners.pics      | available | $1.99     | —             | 61             | 32     | 8      | name.com        |
+| cams.pics          | resell    | —         | —             | 52             | 29     | 4      | Dynadot LLC     |
+| boats.pics         | premium   | $812.50   | —             | 52             | 24     | 5      | name.com        |
 | letsgo.pics        | available | $1.99     | —             | 57             | 31     | 7      | name.com        |
 | photos.pics        | resell    | —         | —             | 54             | 28     | 6      | Porkbun, LLC    |
+| Alexis.pics        | premium   | $812.50   | —             | 72             | 21     | 6      | name.com        |
+| spaces.pics        | available | $1.99     | —             | 54             | 30     | 6      | name.com        |
+| likes.pics         | resell    | —         | —             | 52             | 20     | 5      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,731 live domains                              |
+| 1,000-row public sample | 11,191 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PICS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PICS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
