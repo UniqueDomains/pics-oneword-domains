@@ -156,6 +156,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0ed10cae-2710-40c5-99a8-e7d003f48bf4,ballplaying.pics,available,1.99,,70,1,12,name.com,,
 0ed85739-50fe-4160-b107-ca81ea5a7680,partners.pics,available,1.99,,61,32,8,name.com,,
 0ee1f5e6-49df-49d3-b1a3-f87b78919e93,reservations.pics,available,1.99,,50,17,12,name.com,,
+0f0b8111-7740-42fc-8f63-c0b000c57952,structure.pics,premium,,,80,24,9,,,
 0f3e9df4-58b1-4745-9735-096f28c91fc2,CountyofMitchell.pics,available,1.99,,42,0,18,name.com,,
 0f412356-4b7e-4172-b4ba-b4010843ecad,GrandExchange.pics,available,40.98,,56,5,14,namecheap,,
 0f5e8413-696a-4046-b6d2-1c49678296cc,moneyorders.pics,available,1.99,,56,1,12,name.com,,
@@ -473,7 +474,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 295e4200-0586-4192-beb1-3ec0565c62e8,cometolight.pics,available,1.99,,68,1,13,name.com,,
 2964a1e6-94c6-414e-8fc9-f1453edeeb6e,StGeorges.pics,available,40.98,,54,6,10,namecheap,,
 296e7a9d-58d5-4442-b211-4959dbbfd5fa,gosteady.pics,available,1.99,,70,3,9,name.com,,
-298d341f-565b-4941-87a0-ceeef796df96,london.pics,resell,,,76,43,6,"Spaceship, Inc.",21/09/2025 14:17,21/09/2026 23:59
+298d341f-565b-4941-87a0-ceeef796df96,london.pics,resell,,,76,44,6,"Spaceship, Inc.",21/09/2025 14:17,21/09/2026 23:59
 29a82d3f-bc0e-4620-b03b-5e12237b5a19,pierogi.pics,available,1.99,,82,7,7,name.com,,
 2a005e8d-66b6-4c42-9a82-b6b66c396327,pennies.pics,available,1.99,,56,6,7,name.com,,
 2a14b068-e46d-488c-a03c-cd493bb9bb98,coffeegrounds.pics,available,1.99,,72,2,14,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5be9130b-d509-481b-8545-ca425156199e,intrinsicvalue.pics,available,1.99,,66,4,15,name.com,,
 5bf33dda-71f4-4615-b568-7b59ce4ef436,refusing.pics,available,1.99,,40,3,8,name.com,,
 5c012d12-fca6-4af7-b20c-b25eac7b4b39,carryforward.pics,available,1.99,,66,3,13,name.com,,
-5c0bea19-7df6-4ce0-967f-827e244d3a11,useto.pics,available,1.99,,72,2,6,name.com,,
