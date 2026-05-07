@@ -83,7 +83,7 @@ print(df.head())
 | dave.pics          | resell    | —         | —             | 76             | 38     | 4      | Dynadot LLC     |
 | donuts.pics        | premium   | $2,500    | —             | 54             | 62     | 6      | name.com        |
 | etc.pics           | available | $1.99     | —             | 58             | 34     | 3      | name.com        |
-| healthcare.pics    | resell    | —         | —             | 80             | 31     | 10     | Spaceship, Inc. |
+| healthcare.pics    | resell    | —         | —             | 80             | 32     | 10     | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
