@@ -584,6 +584,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3481f764-9e29-47ce-be26-2967e79dd2ad,sandals.pics,resell,,,66,12,7,"Spaceship, Inc.",08/06/2025 14:18,08/06/2026 23:59
 348740ee-ab09-443e-8ce3-8a7d4fb7887f,favors.pics,available,1.99,,76,8,6,name.com,,
 3493dc9a-50f2-43c2-9ceb-f5b25f2897e5,dogsleds.pics,available,1.99,,76,1,8,name.com,,
+34b641d7-46dc-4502-a7a6-aaae3cc16718,miracle.pics,premium,,,76,34,7,,,
 34cb5fa1-aa1a-4d75-85fa-31aed7fed4ee,reflexes.pics,available,1.99,,55,4,8,name.com,,
 34ce8461-7485-4cd9-bba1-1eb957577e14,genericnames.pics,available,1.99,,42,2,13,name.com,,
 34ef6c0a-8166-4a15-8462-9dcfbd8a432b,becalled.pics,available,1.99,,86,2,9,name.com,,
@@ -707,6 +708,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 413b90c6-f62d-435f-894b-ba37216aa09b,astheycome.pics,available,1.99,,56,1,12,name.com,,
 4149e41b-0753-45ba-8874-696c25cbe1cc,letterofdismissal.pics,available,1.99,,44,1,19,name.com,,
 416ee40b-820c-4833-adda-d03492665dcb,slipdress.pics,available,1.99,,76,1,10,name.com,,
+418b27b8-ea94-4646-98d0-3d66a8e9ac3b,jimmy.pics,premium,,,79,28,5,,,
 419263ae-add2-4fd3-be5b-5f066a149c9c,termed.pics,available,1.99,,48,4,6,name.com,,
 4199a209-b744-4f0f-a8b6-150f0d5ce160,produces.pics,available,1.99,,54,5,8,name.com,,
 41a467aa-dd1f-40ef-bd63-245060d39399,basedon.pics,available,1.99,,50,4,8,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5bd3e24a-6b5e-4171-ad83-f40f773dd466,cuttothechase.pics,available,1.99,,68,4,16,name.com,,
 5be16582-9b45-4dfe-82c6-0327e1f6fe6a,proxyfight.pics,available,1.99,,44,1,11,name.com,,
 5be9130b-d509-481b-8545-ca425156199e,intrinsicvalue.pics,available,1.99,,66,4,15,name.com,,
-5bf33dda-71f4-4615-b568-7b59ce4ef436,refusing.pics,available,1.99,,40,3,8,name.com,,
-5c012d12-fca6-4af7-b20c-b25eac7b4b39,carryforward.pics,available,1.99,,66,3,13,name.com,,
