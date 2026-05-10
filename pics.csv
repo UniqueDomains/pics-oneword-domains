@@ -32,6 +32,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 02745f24-1cec-48da-a27d-5f8d389b57ac,privatelife.pics,available,1.99,,78,4,12,name.com,,
 029798b6-a412-4818-b064-b4c1a98d5961,getlucky.pics,available,1.99,,84,10,9,name.com,,
 029b8f3a-3311-402b-8d5f-8b7ad734f280,synthesized.pics,available,1.99,,57,3,11,name.com,,
+02ae1007-23a9-461f-b173-f9668557cad3,whose.pics,premium,,,70,12,5,,,
 02e39470-cd4b-4651-9b69-e53d2e24b2fc,makethecut.pics,available,1.99,,78,3,12,name.com,,
 02e825e0-c599-4018-bc8a-ae9053ff6a8e,hills.pics,available,1.99,,65,20,5,name.com,,
 030ec1d9-d054-4c39-aa20-002c743a3924,pairofpliers.pics,available,1.99,,62,0,14,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5bc873e1-71e7-435a-9799-89c044858eb9,fellowfeel.pics,available,1.99,,72,1,10,name.com,,
 5bd3e24a-6b5e-4171-ad83-f40f773dd466,cuttothechase.pics,available,1.99,,68,4,16,name.com,,
 5be16582-9b45-4dfe-82c6-0327e1f6fe6a,proxyfight.pics,available,1.99,,44,1,11,name.com,,
-5be9130b-d509-481b-8545-ca425156199e,intrinsicvalue.pics,available,1.99,,66,4,15,name.com,,
