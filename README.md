@@ -1,10 +1,10 @@
-# Available .PICS One-Word Domains (11,192)
+# Available .PICS One-Word Domains (11,193)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C192%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C193%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .pics one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,192 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,193 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,192 domains · **Median ask:** $47.44 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,193 domains · **Median ask:** $74.55 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/pics`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/pics`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PICS one-word domain 
 
 ### Files
 
-- `pics.csv` — public CSV extract (1,000 rows)
-- `pics.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `pics.csv`, public CSV extract (1,000 rows)
+- `pics.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| finals.pics        | available | $1.99     | —             | 80             | 7      | 6      | name.com        |
-| barup.pics         | available | $1.99     | —             | 82             | 2      | 6      | name.com        |
-| forces.pics        | available | $1.99     | —             | 82             | 12     | 6      | name.com        |
-| popup.pics         | available | $1.99     | —             | 84             | 28     | 6      | name.com        |
-| Apples.pics        | available | $40.98    | —             | 90             | 16     | 6      | namecheap       |
-| gearup.pics        | available | $1.99     | —             | 80             | 16     | 7      | name.com        |
-| QandA.pics         | available | $40.98    | —             | 80             | 10     | 7      | namecheap       |
-| pierogi.pics       | available | $1.99     | —             | 82             | 7      | 7      | name.com        |
-| getlife.pics       | available | $1.99     | —             | 80             | 5      | 8      | name.com        |
-| messages.pics      | available | $1.99     | —             | 80             | 16     | 8      | name.com        |
-| presents.pics      | available | $1.99     | —             | 80             | 9      | 8      | name.com        |
-| rumcake.pics       | available | $1.99     | —             | 81             | 2      | 8      | name.com        |
-| keepthechange.pics | available | $1.99     | —             | 46             | 59     | 15     | name.com        |
-| london.pics        | resell    | —         | —             | 76             | 44     | 6      | Spaceship, Inc. |
-| insight.pics       | premium   | $2,500    | —             | 76             | 69     | 8      | name.com        |
-| whynot.pics        | available | $1.99     | —             | 74             | 44     | 7      | name.com        |
-| dave.pics          | resell    | —         | —             | 76             | 38     | 4      | Dynadot LLC     |
-| donuts.pics        | premium   | $2,500    | —             | 54             | 62     | 6      | name.com        |
-| payments.pics      | available | $1.99     | —             | 58             | 33     | 8      | name.com        |
-| healthcare.pics    | resell    | —         | —             | 80             | 32     | 10     | Spaceship, Inc. |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| ago.pics      | available | $1.99     | $45.99        | medium         | low    | 3      | name.com        |
+| recovery.pics | resell    | $1.99     | —             | high           | low    | 8      | Spaceship, Inc. |
+| Ava.pics      | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
+| cue.pics      | available | $1.99     | —             | medium         | low    | 3      | name.com        |
+| aim.pics      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
+| lp.pics       | premium   | $812.50   | —             | medium         | low    | 3      | name.com        |
+| err.pics      | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
+| fat.pics      | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC     |
+| boss.pics     | premium   | $2,500    | —             | high           | high   | 4      | name.com        |
+| had.pics      | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
+| men.pics      | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
+| duke.pics     | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
+| hat.pics      | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| way.pics      | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
+| only.pics     | premium   | $2,500    | $2,500        | high           | medium | 4      | name.com        |
+| jot.pics      | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| arts.pics     | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
+| side.pics     | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
+| roi.pics      | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| babe.pics     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,192 live domains                        |
+| 1,000-row public sample | 11,193 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .pics extension. The set includes plain dictionary words, verbs, plurals, and short coined forms such as tall.pics, finals.pics, jewels.pics, getup.pics, and popup.pics. For founders, the key question is whether the word fits an image-led product, gallery, portfolio, creator brand, or visual campaign without needing extra explanation. For investors, the focus is tighter: entry price, renewal discipline, and whether the word has enough commercial breadth to attract future buyers. When comparing these domains, favor words that are easy to say, easy to spell, visually relevant, and unlikely to create trademark friction.
+This set covers one-word and short-phrase domain names built on the .pics extension, names like makehistory.pics, comeonline.pics, and getjiggy.pics. Most strings read as clean phrases or single words rather than hyphenated or numeric variations, which keeps them easy to say and remember. With 11,193 domains and a median ask near $75, pricing stays accessible across a wide range of word styles. When comparing names in this list, weigh ask price against word clarity, phrase logic, and how well the string would work as a standalone brand on a niche, visually themed TLD.
 
-- Favor words that naturally fit photos, galleries, or visuals
-- Check if the word stays clear when paired with .pics
-- Use the 47.44 median ask as a pricing reality check
-- Avoid names with obvious brand or trademark collision risk
+- 11,193 .pics domains with median ask near $75
+- One-word, phrase-style names like makehistory.pics
+- Broad price range across a single niche TLD
+- Evaluate by ask price, renewal cost, and brandability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PICS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PICS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
