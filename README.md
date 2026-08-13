@@ -1,10 +1,10 @@
-# Available .PICS One-Word Domains (12,655)
+# Available .PICS One-Word Domains (13,350)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C655%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C350%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pics one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,655 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,350 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,655 domains · **Median ask:** $56.62 · **High-demand under $2,500:** 10
+**Public extract:** 1,000 rows · **Live catalog:** 13,350 domains · **Median ask:** $54.65 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-08-12
+**Last updated:** 2026-08-13
 **Canonical page:** `https://unique.domains/domains/tld/pics`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| ago.pics      | available | $1.99     | $45.99        | medium         | low    | 3      | name.com        |
-| recovery.pics | resell    | $1.99     | —             | high           | low    | 8      | Spaceship, Inc. |
-| Ava.pics      | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
-| cue.pics      | available | $1.99     | —             | medium         | low    | 3      | name.com        |
-| aim.pics      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
-| lp.pics       | premium   | $812.50   | —             | medium         | low    | 3      | name.com        |
-| err.pics      | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
-| fat.pics      | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC     |
-| boss.pics     | premium   | $2,500    | —             | high           | high   | 4      | name.com        |
-| had.pics      | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
-| men.pics      | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
-| duke.pics     | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
-| hat.pics      | available | $1.99     | —             | high           | low    | 3      | name.com        |
-| way.pics      | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
-| only.pics     | premium   | $2,500    | $2,500        | high           | medium | 4      | name.com        |
-| jot.pics      | available | $1.99     | —             | high           | low    | 3      | name.com        |
-| arts.pics     | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
-| side.pics     | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
-| lii.pics      | available | $1.80     | $40.98        | low            | low    | 3      | namecheap       |
-| babe.pics     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| christmas.pics | premium   | $812.50   | —             | high           | low    | 9      | name.com        |
+| beauty.pics    | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc. |
+| present.pics   | available | $1.99     | —             | high           | low    | 7      | name.com        |
+| tough.pics     | available | $1.99     | —             | high           | low    | 5      | name.com        |
+| ground.pics    | available | $1.99     | $32.49        | high           | low    | 6      | namesilo        |
+| ago.pics       | available | $1.99     | $45.99        | medium         | low    | 3      | name.com        |
+| recovery.pics  | resell    | $1.99     | —             | high           | low    | 8      | Spaceship, Inc. |
+| Ava.pics       | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
+| cue.pics       | available | $1.99     | —             | medium         | low    | 3      | name.com        |
+| aim.pics       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
+| lp.pics        | premium   | $812.50   | —             | medium         | low    | 3      | name.com        |
+| err.pics       | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
+| fat.pics       | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC     |
+| boss.pics      | premium   | $2,500    | —             | high           | high   | 4      | name.com        |
+| had.pics       | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
+| men.pics       | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
+| duke.pics      | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
+| hat.pics       | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| way.pics       | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
+| only.pics      | premium   | $2,500    | $2,500        | high           | medium | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,655 live domains                        |
+| 1,000-row public sample | 13,350 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 10 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PICS One-Word Domains*. Version 2026-08-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PICS One-Word Domains*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
