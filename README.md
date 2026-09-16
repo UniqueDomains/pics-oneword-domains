@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .pics one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,431 domains · **Median ask:** $37.86 · **High-demand under $2,500:** 12
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/pics`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| christmas.pics | premium   | $812.50   | —             | high           | low    | 9      | name.com        |
-| beauty.pics    | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc. |
-| present.pics   | available | $1.99     | —             | high           | low    | 7      | name.com        |
-| tough.pics     | available | $1.99     | —             | high           | low    | 5      | name.com        |
-| ground.pics    | available | $1.99     | $32.49        | high           | low    | 6      | namesilo        |
-| ago.pics       | available | $1.99     | $45.99        | medium         | low    | 3      | name.com        |
-| recovery.pics  | resell    | $1.99     | —             | high           | low    | 8      | Spaceship, Inc. |
-| Ava.pics       | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
-| cue.pics       | available | $1.99     | —             | medium         | low    | 3      | name.com        |
-| aim.pics       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
-| lp.pics        | premium   | $812.50   | —             | medium         | low    | 3      | name.com        |
-| err.pics       | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
-| fat.pics       | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC     |
-| boss.pics      | premium   | $2,500    | —             | high           | high   | 4      | name.com        |
-| had.pics       | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
-| men.pics       | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
-| duke.pics      | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
-| hat.pics       | available | $1.80     | $40.98        | medium         | low    | 3      | namecheap       |
-| way.pics       | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
-| only.pics      | premium   | $2,500    | $2,500        | high           | medium | 4      | name.com        |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| ago.pics      | available | $1.99     | $45.99        | medium         | low    | 3      | name.com        |
+| recovery.pics | resell    | $1.99     | —             | high           | low    | 8      | Spaceship, Inc. |
+| Ava.pics      | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
+| cue.pics      | available | $1.99     | —             | medium         | low    | 3      | name.com        |
+| aim.pics      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
+| lp.pics       | premium   | $812.50   | —             | medium         | low    | 3      | name.com        |
+| err.pics      | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
+| fat.pics      | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC     |
+| boss.pics     | premium   | $2,500    | —             | high           | high   | 4      | name.com        |
+| had.pics      | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
+| men.pics      | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
+| duke.pics     | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
+| hat.pics      | available | $1.80     | $40.98        | medium         | low    | 3      | namecheap       |
+| way.pics      | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
+| only.pics     | premium   | $2,500    | $2,500        | high           | medium | 4      | name.com        |
+| jot.pics      | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| babe.pics     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| side.pics     | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
+| lii.pics      | available | $1.80     | $40.98        | low            | low    | 3      | namecheap       |
+| bits.pics     | resell    | —         | —             | medium         | low    | 4      | Porkbun, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PICS One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PICS One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
