@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 50284531-1919-451a-a9fd-fd13a8124c11,beatified.pics,available,1.8,40.98,low,low,9,namecheap,,,09/08/2026 05:53
 9c60425b-995e-4315-9078-d9f48cc28a6e,unbearable.pics,available,1.99,,medium,low,10,name.com,,,
-3568129a-58be-4a9c-b924-bb6a6c53267e,claim.pics,premium,812.5,,high,low,5,name.com,,,
+3568129a-58be-4a9c-b924-bb6a6c53267e,claim.pics,premium,845,845,high,low,5,namecheap,,,17/09/2026 09:53
 64a5cc80-0578-4e70-83bf-28348d043f32,aladdin.pics,premium,2500,,high,medium,7,name.com,,,
 e65d5316-352e-4029-aa49-031895540928,again.pics,available,1.99,32.49,high,low,5,namesilo,,,
 4d82f844-824e-437b-9d1c-cc0e2b09598f,aspirant.pics,available,1.8,40.98,low,low,8,namecheap,,,07/08/2026 05:02
@@ -467,7 +467,6 @@ ac529db5-6a3f-4a4b-a1b5-910271f2f709,germicide.pics,available,1.8,40.98,low,low,
 2e041f54-2df9-436a-bf79-a67c64402b24,amative.pics,available,1.8,40.98,low,low,7,namecheap,,,
 6b7ef118-dde5-445e-8045-a108f530453e,owned.pics,available,1.99,,high,low,5,name.com,,,
 9c024458-a1eb-4917-afaf-097250173708,thisone.pics,available,1.99,,low,low,8,name.com,,,
-c932cf0c-f962-4c5d-9eda-c0534ac5f4a8,brain.pics,resell,,,high,medium,5,Dynadot LLC,05/07/2025 08:28,05/07/2026 23:59,
 2c9b6c5d-0569-428e-87fd-d3811b65b07c,terrified.pics,resell,,,medium,low,9,"Spaceship, Inc.",01/06/2025 20:12,01/06/2026 23:59,
 dbc59397-e198-4ba7-82b9-f4791c68ccf7,fortynine.pics,available,1.8,40.98,low,low,10,namecheap,,,
 ee24fef3-921b-4e0d-bb60-6c72ea193936,arborous.pics,available,1.8,40.98,low,low,8,namecheap,,,06/08/2026 13:29
@@ -596,7 +595,6 @@ de957fff-e733-4caf-978b-480d6b10f0ad,might.pics,available,1.99,,high,low,5,name.
 649454ab-9694-4dd2-9f04-c5ebc36b825d,upatree.pics,available,1.99,,low,low,9,name.com,,,
 62e4ae30-4158-4ca8-bf08-da3c16932498,gene.pics,available,,,medium,low,4,,,,
 26d1bdf3-2a57-46e4-bb84-c1fa4e61f3b8,youngest.pics,available,1.99,,high,low,8,name.com,,,
-5188b736-1788-4d0b-b3d2-284fd803ad28,men.pics,resell,,,high,low,3,Dynadot LLC,29/06/2025 12:07,29/06/2026 23:59,
 d47282eb-4bc6-4d7c-8a87-9c523f32d570,commonman.pics,available,1.99,32.49,high,low,10,namesilo,,,
 fbce1f01-82fe-4f45-bd2f-e53583180212,incidentreport.pics,available,1.99,,medium,low,15,name.com,,,
 e69f3ef0-c8f0-4c2c-89e7-b18bf532a921,maternal.pics,available,1.99,,high,low,8,name.com,,,
@@ -731,7 +729,7 @@ a0b8bdd5-896e-41b2-aa22-2bb6c3756871,anticlinal.pics,available,1.8,40.98,low,low
 c1715eff-7c6e-415c-899a-1b6773f1787f,experimental.pics,available,1.99,32.49,high,low,12,namesilo,,,
 d8516d37-9ec0-46c0-b621-b16c29041814,farmstand.pics,available,1.99,32.49,high,low,10,namesilo,,,
 ec1f6737-05a1-491d-a1c5-18091e4bcb30,agonadal.pics,available,1.8,40.98,low,low,8,namecheap,,,
-7984edc8-6b9f-46e4-8e47-243b53d8f972,tieup.pics,available,1.99,,low,low,6,name.com,,,
+7984edc8-6b9f-46e4-8e47-243b53d8f972,tieup.pics,available,1.99,32.49,low,low,6,namesilo,,,17/09/2026 14:23
 79109351-1b04-46f2-9128-358ac16047d4,cautionary.pics,available,1.8,40.98,low,low,10,namecheap,,,
 90e2622c-a91a-40a2-8fd6-9c521b0af496,fillout.pics,available,1.8,40.98,low,low,8,namecheap,,,17/08/2026 23:11
 c505bab4-45fc-4047-aa47-2d75858b36e1,nursery.pics,available,1.99,,medium,low,7,name.com,,,
@@ -999,3 +997,5 @@ aee87094-c717-4f55-ab08-c3eeba1bd185,trivial.pics,available,1.99,,high,low,7,nam
 f1defc62-cd95-4cf0-b03e-65f96d124d71,Iwouldratherdie.pics,available,1.99,,medium,low,18,name.com,,,
 d55f2d1d-b857-4b15-862d-fae138acd8fb,thee.pics,available,1.99,,medium,low,4,name.com,,,
 4ab50bc5-f6e5-4cac-ab12-d3b1863fe6e8,ablative.pics,available,1.8,40.98,low,low,8,namecheap,,,
+78deb588-2690-495e-a481-ee230e16436f,octonary.pics,available,1.8,40.98,low,low,8,namecheap,,,
+09561fad-f0e8-44dd-80fc-2278dc743902,amphibian.pics,available,,,medium,low,9,,,,
